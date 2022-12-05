@@ -1,0 +1,11 @@
+body { 
+	font-family: Verdana,Aria,Helvetica,Fantasy;
+	font-size: small; 
+	color: #555753; 
+	background: #ffffff;
+	<!-- background: #e0e0e0; -->
+}
+
+h1 { color: darkgreen; } 
+h2 { color: brown; } 
+
