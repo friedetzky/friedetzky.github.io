@@ -1,0 +1,24 @@
+Erik Jan van Leeuwen
+Bergen, Norway
+
+Firefighting with Algorithms
+
+The Firefighter problem is to place firefighters on the vertices of a
+graph to prevent a fire with known starting point from lighting up the
+entire graph. In each time step, a firefighter may permanently protect
+an unburned vertex. After that, every vertex that is adjacent to a
+burning vertex starts to burn, assuming that it has no previously been
+protected. The goal is to let as few vertices burn as possible. This
+problem is notoriously hard: it is NP-complete even when restricted to
+bipartite graphs or to trees of maximum degree three. We study this
+problem from two different angles: 1) Initial study showed the
+Firefighter problem to be fixed-parameter tractable on trees in various
+parameterizations. We complete these results by solving various open
+questions posed in the existing study.  We also give refined algorithms
+on trees, improving on the running times of the known algorithms.  2) In
+spite of the hardness results, we show that the problem is still
+polynomial-time solvable on the well-known class of interval graphs. A
+generalization into two dimensions, for instance to unit disk graphs, is
+not tractable: we prove the problem to be NP-complete.
+
+

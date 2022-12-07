@@ -1,0 +1,6 @@
+Paul Goldberg       P.W.Goldberg@liverpool.ac.uk       
+Gregory Gutin       G.Gutin@cs.rhul.ac.uk             
+Bill Jackson        b.jackson@qmul.ac.uk             
+Rahul Savani        Rahul.Savani@liverpool.ac.uk    
+Alan Sokal          a.sokal@ucl.ac.uk              
+Milan Vojnovic      milanv@microsoft.com

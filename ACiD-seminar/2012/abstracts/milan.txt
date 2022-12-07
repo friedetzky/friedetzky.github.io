@@ -1,0 +1,18 @@
+Milan Vojnovic
+Microsoft Research, Cambridge
+
+In this talk, I will consider the problem of distributed ranking of
+alternatives in a network of nodes under limited memory per node and
+limited information communicated between nodes. In particular, for the
+case of ranking of two alternatives, each node in the network is assumed
+to prefer one of the alternatives, and the goal for each node is to
+correctly identify one of the two alternatives that is preferred by
+majority of the nodes. This type of a problem has been studied under
+various names such as consensus, k-selection and quantile computation.
+The model is an abstraction that underlies various systems such as
+ranking of items in distributed peer-to-peer systems, databases and may
+also capture dynamics of opinion formation in social networks.
+
+Joint work with Moez Draief, Kyomin Jung, Bo Young Kim, Etienne Perron
+and Dinkar Vasudevan
+

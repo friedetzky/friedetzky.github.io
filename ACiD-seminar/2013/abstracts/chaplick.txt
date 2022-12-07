@@ -1,0 +1,21 @@
+Steve Chaplick
+Max Point-Tolerance Graphs 
+
+A graph G is a max-point-tolerance (MPT) graph if each vertex v of G can be
+mapped to a pointed-interval (I_v, p_v) where Iv is an interval of R and p_v
+∈ I_v such that uv is an edge of G iﬀ I_u ∩ I_v ⊇ {p_u, p_v}. MPT graphs
+model relationships among DNA fragments in genome-wide association studies
+as well as basic transmission problems in telecommunications. We formally
+introduce this graph class, characterize it, study combinatorial
+optimization problems on it, and relate it to several well known graph
+classes. We characterize MPT graphs as a special cases of several 2D
+geometric intersection graphs; namely, triangle, rectangle, L-shape, and
+line segment intersection graphs. We further characterize MPT as having
+certain linear orders on their vertex set. Our last characterization is that
+MPT graphs are precisely obtained by intersecting special pairs of interval
+graphs. We also show that, on MPT graphs, the weighted independent set
+problem can be solved in polynomial time, the colouring problem is
+NP-complete, and the clique cover problem has a 2-approximation. Finally, we
+demonstrate several connections to known graph classes; e.g., MPT graphs
+strictly contain of interval graphs and outerplanar graphs, but are
+incomparable to permutation, chordal, and planar graphs.

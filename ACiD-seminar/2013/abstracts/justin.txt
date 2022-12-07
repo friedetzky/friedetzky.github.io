@@ -1,0 +1,19 @@
+Justin Ward, Warwick
+
+Maximising Bisubmodular and k-Submodular Functions
+
+Submodular functions play a key role in combinatorial optimisation and in
+the theory of valued constraint satisfaction problems. Recently, there has
+been interest in various generalisations of submodularity, including
+bisubmodular functions, which operate on disjoint pairs of sets, rather than
+single sets.  Like submodular functions, bisubmodular functions can be
+minimised exactly in polynomial time and exhibit the property of diminishing
+returns.  In this talk, I will present recent joint work with Stanislav
+Zivny on maximising both bisubmodular functions and also general
+k-submodular functions, which operate on disjoint k-tuples of sets.
+Additionally, I will discuss the relationship between bisubmodularity and
+submodularity, and show how our results on bisubmodular functions can
+provide intuition for existing algorithms that maximise submodular
+functions, such as the recent 1/2-approximation algorithm of Buchbinder,
+Feldman, Naor, and Schwarz.
+

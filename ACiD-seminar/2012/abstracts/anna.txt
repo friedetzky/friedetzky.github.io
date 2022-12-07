@@ -1,0 +1,16 @@
+Anna Huber
+Durham
+
+Skew Bisubmodularity and Valued CSPs
+
+An instance of the Finite-Valued Constraint Satisfaction Problem (VCSP)
+is given by a finite set of variables, a finite domain of values, and a
+sum of rational-valued functions, each function depending on a subset of
+the variables. The goal is to find an assignment of values to the
+variables that minimises the sum.
+
+In this talk I will investigate VCSPs in the case when the variables can
+take three values and provide a tight description of the tractable
+cases.
+
+Joint work with Andrei Krokhin and Robert Powell.

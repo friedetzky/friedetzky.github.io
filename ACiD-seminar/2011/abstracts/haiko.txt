@@ -1,0 +1,26 @@
+Haiko Mueller
+Leeds
+Colouring AT-free graphs
+
+Three vertices of a graph form an asteroidal triple (short AT) if
+between any two of them there is a path avoiding all neighbours of the
+third. This concept was introduced by Lekkerkerker and Boland in 1962
+to characterise interval graphs as those chordal graphs having no AT.
+Asteroidal triple-free graphs form a graph classes with a lot of
+interesting structural and algorithmic properties; most of them
+discovered in the late nineties initiated by the important work of
+Corneil, Olariu and Stewart.
+
+A vertex colouring assigns to each vertex of a graph a colour such
+that adjacent vertices have different colours. The algorithmic
+complexity of the COLOURING problem, asking for the smallest number of
+colours needed to vertex colour a given graph, is known for a huge
+number of graph classes. In fact, it is solvable in polynomial time
+for perfect graphs, and thus for all their subclasses.
+
+Broersma et al. asked to find out the algorithmic complexity of
+COLOURING on AT-free graphs. Even the algorithmic complexity of the
+k-COLOURING problem, which asks whether a graph can be coloured with a
+fixed number k of colours, remained unknown for AT-free graphs until
+recently; for k=3 Stacho presented a polynomial time algorithm. We
+show that k-COLOURING is polynomial-time solvable on AT-free graphs.

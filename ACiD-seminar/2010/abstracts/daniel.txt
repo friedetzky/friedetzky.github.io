@@ -1,0 +1,16 @@
+Title: On coloring graphs without induced forests
+
+Joint work with: Hajo Broersma, Petr Golovach and Jian Song.
+
+Abstract: The l-Coloring problem is the problem to decide whether a
+graph can be colored with at most l colors. The Vertex Coloring problem
+is the problem to determine the chromatic number of a graph. We study
+the computational complexity of these two problems for graph classes
+characterized by one or two forbidden induced subgraphs. A graph G is
+H-free if G contains no induced subgraph isomorphic to graph H. We study
+the case when H is a linear forest (disjoint union of a collection of
+paths) of small size. In particular, we present an updated overview on
+the l-Coloring problem for P_k-free graphs, where P_k denotes the path
+on k vertices. The computational complexity of this problem depends on
+the (fixed) values of k and l, and a full complexity classification is
+still open.

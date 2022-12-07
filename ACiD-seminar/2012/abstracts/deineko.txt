@@ -1,0 +1,16 @@
+Vladimir Deineko
+Warwick
+
+Specially structured matrices in combinatorial optimisation
+
+Identifying polynomially solvable cases of NP-hard optimisation problems
+is one of the well known branches in combinatorial optimisation. We
+consider two classical problems such as the travelling salesman problem
+and the quadratic assignment problem. It is known that if the underlying
+distance matrices have special structures then the optimal solutions to
+these problems can be found in polynomial time. We give a short survey
+of known solvable cases as well as present some new relaxations on the
+known structures in matrices which still keep these notoriously
+difficult problems manageable.
+
+

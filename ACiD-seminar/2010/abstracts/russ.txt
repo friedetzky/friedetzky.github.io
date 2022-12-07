@@ -1,0 +1,28 @@
+Russ Martin
+Liverpool
+
+The Complexity of Approximately Counting Stable Matchings
+
+We investigate the problem of counting stable marriages and
+stable roommate assignments.  The classical polynomial-time
+algorithm of Gale and Shapley demonstrates the existence of
+a stable marriage for any problem instance.  A similar
+polynomial-time algorithm of Irving can be used to find a
+stable roommate assignment, or to show that none exists.  Each
+of the corresponding counting problems ("How many stable matchings
+are there?") is known to be #P-complete.
+
+This raises the question of approximately counting the number of
+stable assignments.  Even in some restricted settings, we show that
+efficient approximation algorithms for these counting problems
+appear unlikely to exist.  For (certain restricted cases of) the
+marriage problem, we show that counting the number of stable
+assignments is equivalent, in an approximation-preserving sense,
+to counting the number of independent sets in a bipartite graph.
+It is conjectured that no fully-polynomial randomized approximation
+scheme (FPRAS) exists for this problem.  For restricted cases of the
+roommate problem, counting stable assignments is equivalent to
+counting the number of satisfying assignments in a SAT formula.
+No FPRAS exists for that problem unless NP=RP.
+
+Joint work with Prasad Chebolu and Leslie Ann Goldberg.

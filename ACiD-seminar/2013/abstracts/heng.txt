@@ -1,0 +1,13 @@
+Heng Guo
+University of Wisconsin
+
+Complexity Dichotomies for Counting Problems
+
+We consider problems of computing quantities in the sum-product fashion, or
+so-called "partition functions" from statistical physics. Such problems are
+usually studied under certain framework, such as Counting H-colorings,
+Counting Constraint Satisfaction Problems (#CSP), and Holant Problems.  A
+dichotomy theorem states that within the framework, all problems are either
+tractable or hard (usually #P-hard). In this talk we will cover some recent
+development in classifying the complexity of #CSP and Holant problems.
+

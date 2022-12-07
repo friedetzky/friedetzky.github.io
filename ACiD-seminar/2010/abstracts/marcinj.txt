@@ -1,0 +1,18 @@
+Marcin Jurdzinski
+Warwick
+
+Algorithms for solving infinite games on graphs
+
+This talk is a selective survey of algorithms for solving a number of
+infinite-path-following games on graphs, such as parity, mean-payoff,
+and discounted games.  The games considered are zero-sum,
+perfect-information, and non-stochastic.  Several state-of-the-art
+algorithms for solving infinite games on graphs are presented, exhibing
+disparate algorithmic techniques, such as divide-and-conquer, dynamic
+programming/value iteration, local search/strategy improvement, and
+mathematical programming, as well as hybrid approaches that dovetail
+some of the former.  While the problems of solving infinite games on
+graphs are in NP and co-NP, and also in PLS and PPAD, and hence unlikely
+to be complete for any of the four complexity classes, no
+polynomial-time algorithms are known for solving them.
+

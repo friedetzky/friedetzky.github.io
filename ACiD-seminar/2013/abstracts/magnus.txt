@@ -1,0 +1,31 @@
+Magnus Wahlström
+Royal Holloway
+
+Half-integrality, LP-branching and FPT Algorithms
+
+By a classical result in combinatorial optimization, Vertex Cover has a
+half-integral LP-relaxation (i.e., the natural LP-relaxation of the Vertex
+Cover problem always has an optimal solution where all variables take
+values 0, 1 or 1/2, implying a 2-approximation); a similar statement holds
+for Node Multiway Cut. Recently, it has been realised that beyond
+approximation, these results also have powerful applications for FPT
+algorithms, e.g., we can check in 2^O(k) poly(n) time whether there is a
+solution that is at most k units more costly than the LP-optimum. This has
+been used to improve the FPT running time for several problems (e.g.,
+Almost 2-SAT and Multiway Cut). Still, the set of problems with known
+half-integral LP-relaxations was somewhat restricted.
+  
+In a recent paper (SODA 2014), we showed how to interpret the existence of
+such a relaxation in the language of CSPs. Using this connection, we
+showed how many of the known half-integral relaxations can be explained as
+optimisation over a function class known as k-submodular functions, and we
+used this function class to produce new half-integral LP-relaxations and
+strongly improved FPT running times for a range of problems.
+
+In the present talk we give a brief overview of this connection, and a
+sketch of its applications in FPT. (Interestingly, the resulting
+polytopes, despite being half-integral, do not imply any approximation
+results.)
+
+
+

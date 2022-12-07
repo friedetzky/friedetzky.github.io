@@ -1,0 +1,30 @@
+Viresh Patel
+Queen Mary
+
+A domination algorithm for {0,1}-instances of the travelling salesman problem
+
+The development of approximation algorithms for NP-hard combinatorial
+optimization problems is a very active field of study. One usually measures
+the performance of an approximation algorithm with the approximation ratio.
+In this talk, I will begin by introducing a less well-known measure called
+the domination ratio.
+
+I will discuss an approximation algorithm for {0,1}-instances of the
+travelling salesman problem which performs well with respect to domination
+ratio. More precisely, given a {0,1}-edge-weighting of the complete graph
+K_n on n vertices, our algorithm outputs a Hamilton cycle H of K_n with the
+following property: the proportion of Hamilton cycles of K_n whose weight is
+smaller than that of H is at most n^{-1/29} = o(1). We use a combination of
+probabilistic and algorithmic techniques together with some results from
+extremal graph theory. Previously, the best result in this direction was a
+polynomial-time algorithm for general TSP that outputs a Hamilton cycle H
+such that at most 1/2 of all Hamilton cycles of K_n have weight smaller than
+H.
+
+On the hardness side we can show that, if the Exponential Time Hypothesis
+holds, there exists a constant C such that n^{-1/29} cannot be replaced
+by \exp(-(\log n)^C) in our result above. 
+
+(Joint work with Daniela Kuehn and Deryk Osthus.)
+
+

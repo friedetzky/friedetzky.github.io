@@ -1,0 +1,50 @@
+Igor Razgon, Leicester
+
+A progress towards understanding the kernelizability of the multiway cut problem
+	  
+A problem is parameterized if in addition to input, a parameter is
+specified.  A usual parameter is an upper bound on the output size. For
+instance, given a graph of n vertices, find a particular subset of
+vertices of size at most k.  Here n is the input size and k is the
+parameter.
+	                                                                                  
+The parameterized complexity assumes that the parameter is small compared
+to the input size and asks how this assumption can be utilized for an
+efficient computation.  A quite radical way of the utilization is
+*polynomial kernelization* or just *kernelization* for the rest of the
+abstract.  This is a polynomial time *preprocessing* algorithm that
+shrinks the input instance to a size polynomially dependent on a parameter
+(of course preserving equivalence with the original instance).  When the
+problem is subsequently solved, the runtime dependence on n is completely
+abandoned, the runtime will depend only on the (small) parameter k.  Such
+preprocessing with a theoretical upper bound on the size of the resulting
+instance looks very attractive from the practical point of view.
+Therefore there is a lot of ongoing research related to understanding
+whether a particular problem is kernelizable or probably (not).  (Like in
+case P vs.  NP, for some problems it is possible to show that their
+kernelizability leads to failure of some widely believed conjecture in the
+complexity theory and hence is very unlikely.)
+
+In this talk I will focus on the ongoing research towards understanding
+the kernelizability of the *muliway cut problem* This is a natural
+generalization of the well known mincut problem where we are given an
+arbitrary number of terminals (not just two as in the mincut case) and
+asked to remove at most k vertices or edges so that all the terminals are
+separated.  Understanding kernelizability of this problem is considered by
+the parameterized complexity community as a challenging and interesting
+question.  We demonstrate that this problem is kernelizable for a special
+case described below.
+
+Given an instance of the multiway cut problem, an *isolating cut* is a set
+of non-terminal vertices separating one of terminals from the rest.  Let r
+be the smallest size of an isolating cut.  We show the the (vertex)
+multiway cut problem is polynomially kernelizable if k-r=O(log k).  The
+solution is based on a combinatorial result that might be of an
+independent interest.  The corresponding preprint is available at
+http://arxiv.org/abs/1104.5361
+
+The talk will be self contained.  I will start from definition of
+kernelization, demonstrate a classical simple example of kernelization of
+the vertex cover problem and only then turn to the above topic.  I will
+give an intuitive description of the related ideas without going much into
+the technicalities.

@@ -1,0 +1,18 @@
+Jian Song
+Durham
+
+Coloring H-Free Graphs
+  
+If a graph $G$ does not contain a graph $H$ as an induced subgraph,
+then $G$ is called $H$-free. For any fixed graph $H$ on at most 6
+vertices, it is known that $3$-{\sc Coloring} is polynomial-time
+solvable on $H$-free graphs whenever $H$ is a linear forest and
+\NP-complete otherwise. By solving the missing case $P_2+P_3$,
+we prove the same result for $4$-{\sc Coloring} provided that $H$
+is a fixed graph on at most 5 vertices. For any fixed girth $g\geq 4$
+we determine a lower bound $\ell(g)$, such that every graph with
+girth at least $g$ and with no induced path on $\ell(g)$ vertices is
+3-colorable. In contrast, we show the existence of an integer $\ell$
+such that testing for 4-colorability is \NP-complete for graphs with
+girth $4$ and with no induced path on $\ell$ vertices.
+

@@ -1,0 +1,15 @@
+Matthias Englert
+Warwick
+
+Reordering Buffer Managment
+
+In a classical online problem arriving requests have to processed
+immediately and in order of arrival. In some applications on the other hand,
+it is possible to temporarily store arriving sequences in a fixed sized
+buffer before processing. Only when the buffer is full, the algorithm is
+forced to decide which request from the buffer to process (and how).
+
+We will discuss problems with this property and analyze them. In particular
+we will talk about a model in which a colored items, which arrive one by
+one, have to be grouped together according to their color to minimize cost.
+

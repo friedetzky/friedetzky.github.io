@@ -1,0 +1,16 @@
+Anna Huber
+Randomized Rounding on Hypergraphs
+
+A randomized rounding of a vector is a rounding that is generated at
+random in such a way that each component is rounded up with probability
+equal to its fractional part, not necessarily independently.
+The theorem of Beck and Fiala (1981) asserts that for every hypergraph
+and every vector of vertex weights there is a rounding of the weights
+such that the additive rounding error for each hyperedge is bounded by
+the hypergraph's maximum degree. I will talk about generalizations of
+this theorem to randomized roundings.
+The main idea is to use dependencies so as to obtain results that are
+superior to those obtained via independent randomness.
+
+Joint work with Benjamin Doerr, Jan Foniok and Christian Klein.
+

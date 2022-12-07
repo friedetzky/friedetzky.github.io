@@ -1,0 +1,32 @@
+Paul Bonsma
+Twente, NL
+
+TITLE: Independent Set Reconfiguration in Cographs
+
+ABSTRACT:
+
+We study the following independent set
+reconfiguration problem: given two independent
+sets A and B (of equal size) of a graph G, does
+there exist a sequence of independent sets of G
+that starts with A, ends with B, such that every
+independent set in the sequence can be obtained
+from the previous one by replacing one vertex?
+This problem is PSPACE-hard in general. In this
+talk we will show that it can be solved in
+polynomial time if G is a cograph, or more
+generally: if G can be obtained from a set of
+simple base graphs by applying disjoint union and
+complete join operations. These base graphs should
+be from a graph class for which the problem itself
+can be solved efficiently, and for which a maximum
+independent set can be computed efficiently.
+Chordal graphs are an example of such a class.
+
+This result is one of the first to demonstrate how
+dynamic programming can be used to solve
+(PSPACE-hard) reconfiguration problems for
+restricted graph classes. The talk will start with
+an overview of many recent results on similar
+reconfiguration problems.
+

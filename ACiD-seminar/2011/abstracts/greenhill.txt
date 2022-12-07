@@ -1,0 +1,20 @@
+Catherine Greenhill
+University of New South Wales
+
+Making Markov chains less lazy
+
+There are only a few methods for analysing the rate of convergence of an
+ergodic Markov chain to its stationary distribution. One is the
+canonical path method of Jerrum and Sinclair.  This method applies to
+Markov chains which have no negative eigenvalues.  Hence it has become
+standard practice for theoreticians to work with lazy Markov chains,
+which do absolutely nothing with probability 1/2 at each step.  This
+must be frustrating for practitioners, who want to use the most
+efficient Markov chain possible.
+
+I will discuss how laziness can be avoided by the use of a twenty-year
+old lemma of Diaconis and Stroock's, or my recent modification of that
+lemma.  As an illustration, I will apply the new lemma to Jerrum and
+Sinclair's well-known chain for sampling perfect matchings in a
+bipartite graph.
+

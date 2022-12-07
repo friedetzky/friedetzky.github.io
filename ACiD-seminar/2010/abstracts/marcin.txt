@@ -1,0 +1,8 @@
+Marcin Kaminski
+Deciding more containment relations in planar graphs in FPT time
+
+We consider several containment relations - contractions, (surface)
+topological minors, weak and strong immersions - and show how to decide
+those relations for planar host graphs in FPT time when parameterized by
+the size of the pattern graph. We also discuss how to extend the results
+beyond planarity - to classes of inputs with an excluded minor.

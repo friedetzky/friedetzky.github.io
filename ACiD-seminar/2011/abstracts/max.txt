@@ -1,0 +1,17 @@
+Max Gadouleau
+Durham
+
+Title: Computing without memory
+
+Abstract: An elementary problem when writing a computer program is how
+to swap the contents of two variables. Although the typical approach
+consists of using a buffer, this operation can actually be performed
+using XOR without memory. In this talk, we generalise this approach and
+thus introduce a novel combinatorial framework for procedural
+programming languages, where programs are allowed to update only one
+variable at a time without the use of any additional memory. After
+proving that any function can be computed in this fashion, we give some
+results on the shortest length of a program computing a given function.
+We then show that binary operations are not sufficient to compute any
+function. If time permits, we finally investigate how using memory can
+also be incorporated in our framework.

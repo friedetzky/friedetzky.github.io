@@ -1,0 +1,12 @@
+Friedrich Slivovsky
+
+Variable Dependencies of Quantified Boolean Formulas
+
+We study a concept of variable independence in Quantified Boolean Formulas
+(QBFs). QBF solvers based on the QDPLL algorithm typically assign variables
+strictly in the order induced by a formula’s quantifier prefix, rendering
+heuristics for selecting decision variables ineffective. Recent extensions
+of QDPLL try to tackle this problem by replacing the prefix order with the
+relation given by a dependency scheme. We present and study a generalisation
+of resolution for QBF that corresponds to the proof system used by such
+solvers to generate proofs.

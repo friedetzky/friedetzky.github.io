@@ -1,0 +1,20 @@
+Nicholas Georgiou
+Durham
+
+The simple harmonic urn is a generalized P\'{o}lya urn model with two
+types of ball.  If the drawn ball is red it is replaced together with
+a black ball, but if the drawn ball is black it is replaced and a red
+ball is thrown out of the urn. When only black balls remain, the roles
+of the colours are swapped and the process restarts. This process can
+be viewed as a stochastic process on $\mathbb{Z}^2$, that approximates
+the phase-portrait of simple harmonic motion.
+
+We will show that the resulting Markov chain is transient, but only
+just so: if we throw out a ball every time the colours swap, then the
+process becomes positive-recurrent.  Along the way I will discuss the
+connections between the urn process and birth-death processes, a
+uniform renewal process and the Eulerian numbers.
+
+This is joint work with Edward Crane, Stanislav Volkov, Andrew Wade
+and Robert Waters.
+

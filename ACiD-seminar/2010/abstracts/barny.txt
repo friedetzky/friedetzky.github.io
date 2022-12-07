@@ -1,0 +1,10 @@
+A Random Walk through Infinite-domain CSP
+Barnaby Martin
+
+We survey the past, present and (insofar as temporally possible)
+future of the area of infinite-domain constraint satisfaction
+problems, mainly from the perspective of Bodirsky and his
+collaborators. We are especially interested in matters of structure
+and complexity as these manifest from a combinatorial,
+universal-algebraic and/ or model-theoretic perspective.
+

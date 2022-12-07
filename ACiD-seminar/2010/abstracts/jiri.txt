@@ -1,0 +1,10 @@
+Jiri Fiala
+Charles University, Prague
+
+
+Computational complexity of some graph covering problems
+
+In the talk we first survey several notions of graph covers - i.e. graph
+homomorphisms with local constraints. Then we focus on two kinds of
+graph covers whose computational complexity has not been studied yet -
+quasicoverings and regular coverings. 

@@ -1,0 +1,27 @@
+Tomasz Radzik
+King's College London
+
+New approximation bounds for some Maximum Network Lifetime problems in wireless ad-hoc networks
+
+A wireless ad-hoc network consists of a number of wireless devices
+(nodes) that communicate with each other using built-in radio
+transceivers. The nodes are commonly battery-powered, so their lifetime
+is limited, but the operation of the whole network can be extended, if
+appropriate communication algorithms are selected. From a number of
+possible models, we consider the following Maximum Network Lifetime
+(MNL) problems. For a given (static) network N with known node-to-node
+communication costs and initial capacities of node batteries, and a
+specified communication task, design a maximum number of communication
+rounds such that: (i) each round executes this specified communication
+task, and (ii) the initial battery capacities are sufficient to execute
+all rounds. For example, the communication task can be gathering sensor
+data from the network in one specified node (convergecast), and we would
+like to execute this task periodically, as many times as possible. We
+show improved approximation algorithms for the MNL problems for three
+types of communication tasks: broadcast, convergecast and unicast. For
+example, we show a polynomial-time algorithm which computes
+1/7-approximation solutions for the convergecast MNL problem, improving
+on the previous ratio of 1/31.
+
+Joint work with Sang Hyuk Lee
+

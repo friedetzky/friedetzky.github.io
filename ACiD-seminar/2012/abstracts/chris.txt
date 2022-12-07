@@ -1,0 +1,29 @@
+Chris Walshaw
+Greenwich
+
+Getting some perspective on hard problems: multilevel refinement for
+combinatorial optimisation
+
+We will look at the multilevel paradigm and its potential to aid the
+solution of combinatorial optimisation problems. The multilevel paradigm
+involves recursive coarsening to create a hierarchy of approximations to the
+original problem. An initial solution is found (sometimes for the original
+problem, sometimes at the coarsest level) and then iteratively refined at
+each level, coarsest to finest.
+
+As a general solution strategy the multilevel procedure has been in use for
+many years and has been applied to many problem areas (most notably via
+multigrid solvers). However, with the exception of graph partitioning,
+multilevel techniques have not been widely applied to combinatorial
+problems.
+
+In this talk we address the use of multilevel ideas for such problems where
+the refinement is carried out by local search algorithms and, with the aid
+of examples and results for various problems including graph partitioning,
+graph colouring and the travelling salesman problem, make a case for its use
+as a meta-heuristic. The results provide compelling evidence that, although
+the multilevel framework cannot be considered as a panacea for combinatorial
+problems, it can provide a valuable addition to the combinatorial
+optimisation toolkit. We also give an explanation for the underlying
+solution mechanism and extract some generic guidelines for its use.
+

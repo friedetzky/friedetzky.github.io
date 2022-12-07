@@ -1,0 +1,22 @@
+Thomas Erlebach
+Leicester
+
+Computational Complexity of Traffic Hijacking under BGP and S-BGP
+
+Harmful Internet hijacking incidents demonstrate how fragile the Border
+Gateway Protocol (BGP) is, which is used to exchange routing information
+between Autonomous Systems (ASes). As shown recently, even S-BGP, the
+secure variant of BGP that is being deployed, is not fully able to
+prevent traffic attraction attacks. Given a traffic flow between two
+ASes, we study how difficult it is for a malicious AS to devise a
+strategy for hijacking or intercepting that flow. We show that this
+problem exhibits a marked difference between BGP and S-BGP: Namely,
+while it is solvable, under reasonable assumptions, in polynomial time
+for the type of attacks that are usually performed in BGP, it is NP-hard
+for S-BGP. We also solve a problem left open in the literature, stating
+when performing a hijacking in S-BGP is equivalent to performing an
+interception.
+
+Joint work with Marco Chiesa, Giuseppe Di Battista, and Maurizio
+Patrignani.
+

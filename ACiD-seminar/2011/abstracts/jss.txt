@@ -1,0 +1,12 @@
+J-S Sereni (CNRS, LIAFA (Paris Denis Diderot))
+Odd cycles in Planar Graphs
+
+The talk will focus on questions about covering and packing of odd
+cycles in planar graphs. Several results and conjectures will be
+presented, in particular concerning the relations between the packing
+and covering numbers. Time permitting, these parameters will also be
+considered under a different objective function, coined "fair".
+
+The talk shall be high-level rather than technical, centered on ideas
+and tools used rather than specific and precise proofs.
+

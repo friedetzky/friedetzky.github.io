@@ -1,0 +1,12 @@
+Alejandro Erickson
+Durham
+
+A domino tatami covering is a classical domino tiling in which no 4 dominoes
+meet.  This local restriction of the (polynomial time) question, “Can the
+region R be covered with dominoes?” is NP-complete, and I give a reduction
+from planar 3SAT, using a SAT-solver to construct the gadgets.  In the
+second half of the talk I introduce monominoes, and I describe the tatami
+structure.  I use this to enumerate certain coverings of the n x n square,
+confirming something first observed to by Don Knuth.
+
+This is joint work with Frank Ruskey

@@ -1,0 +1,22 @@
+Mary Cryan
+Edinburgh
+
+The number of Euler tours of a random d-in/d-out graph
+
+We obtain the expectation and variance of the number of Euler tours of a
+random d-in/d-out directed graph, for d>=2. We use this to obtain the
+asymptotic distribution and prove a concentration result. We are then
+able to show that a very simple approach for uniform sampling or
+approximately counting Euler tours yields algorithms running in expected
+polynomial time for almost every d-in/d-out graph.  We make use of the
+BEST theorem of de Bruijn, van Aardenne-Ehrenfest, Smith and Tutte,
+which shows that the number of Euler tours of a d-in/d-out graph is the
+product of the number of arborescences and the term ([(d-1)!]^n)/n.
+Therefore most of our work lies in estimating the asymptotic
+distribution of the number of arborescences of a random d-in/d-out
+graph.
+
+
+
+
+

@@ -1,0 +1,26 @@
+Dirk Sudholdt
+Sheffield
+
+On the Analysis of Evolutionary Algorithms - How Crossover Speeds Up 
+Building-Block Assembly in Genetic Algorithms
+
+Abstract:
+Evolutionary algorithms are popular general-purpose algorithms for 
+optimisation and design that use search operators like mutation, 
+crossover and selection to "evolve" a population of good solutions. In
+the past decades there has been a long and controversial debate about
+when and why the crossover operator is useful. The building-block
+hypothesis assumes that crossover is particularly helpful if it can
+recombine good "building blocks", i. e. short parts of the genome that
+lead to high fitness. However, all attempts at proving this rigorously
+have been inconclusive. As of today, there is no rigorous and intuitive
+explanation for the usefulness of crossover. In this talk we provide
+such an explanation. For functions where "building blocks" need to be
+assembled, we prove rigorously that many evolutionary algorithms with
+crossover are twice as fast as the fastest evolutionary algorithm
+using only mutation. The reason is that crossover effectively turns
+fitness-neutral mutations into improvements by combining the right
+building blocks at a later stage. This also leads to surprising
+conclusions about the optimal mutation rate.
+
+

@@ -1,0 +1,20 @@
+ACiD seminar
+Thursday, 28 February 2013
+E245
+
+Speaker: Maxim Sviridenko, Warwick
+New Approximation Algorithms for the Minimimum Set Cover and Other
+Covering Problems
+We study the relationship between the approximation factor for the SetCover problem and the parameters ∆ : the maximum cardinality of any
+subset, and k : the maximum number of subsets containing any element
+of the ground set. We show an LP rounding based approximation of (k −
+ln ∆
+1)(1 − e− k−1 ) + 1, which is substantially better than the classical algorithms
+in the range k ≈ ln ∆, and also improves on related previous works [Krivelevich, Okun]. For the interesting case when k = θ(log ∆) we also exhibit an
+integrality gap which essentially matches our approximation algorithm. In
+addition we will discuss results on Generalized Min Sum Set Cover Problem.
+I will describe the state of the art, our results and open problems.
+
+1
+
+

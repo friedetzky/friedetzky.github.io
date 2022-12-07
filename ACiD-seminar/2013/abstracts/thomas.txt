@@ -1,0 +1,13 @@
+Thomas Sauerwald
+Cambridge
+
+Balls into Bins via Local Search
+
+We study a natural process for allocating m balls (tasks) into n bins
+(resources) that are organized as the vertices of an undirected graph G.
+Balls arrive one at a time. When a ball arrives, it first chooses a vertex u
+in G uniformly at random. Then the ball performs a local search in G
+starting from u until it reaches a vertex with local minimum load, where the
+ball is finally placed on. Then the next ball arrives and this procedure is
+repeated. In this talk we derive bounds on the maximum load of this process
+and the time until every bin has at least one ball allocated to it.

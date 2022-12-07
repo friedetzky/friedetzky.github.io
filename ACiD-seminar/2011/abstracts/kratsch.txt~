@@ -1,0 +1,32 @@
+Dieter Kratsch 
+
+Minimal Dominating Sets in Graphs: Enumeration,
+Combinatorial Bounds and Graph Classes 
+
+ABSTRACT:
+
+In 2008 Fomin, Grandoni, Pyatkin and Stepanov provided an exact
+exponential time algorithm to enumerate all minimal dominating sets of a
+graph. Its main consequence was the first non trivial upper bound on the
+number of minimal dominating sets; the maximum number of minimal
+dominating sets that a graph on $n$ vertices can have is at most
+$1.7159^n$. This upper bound might not be tight, since no examples of
+graphs with $1.5705^n$ or more minimal dominating sets are known.
+
+This talk considers exact exponential algorithms to enumerate
+minimal dominating sets when the input graphs are restricted to certain
+graph classes, among them chordal graphs, cographs and chain graphs.
+The following types of results exploiting the structure
+of the particular graph classes are presented:
+(i) enumeration algorithms based on branching algorithms
+and their analysis via upper bounding the number of leaves in
+search trees,
+(ii) upper bounds on the maximum number of minimal dominating sets
+in $n$-vertex graphs obtained via branching algorithms or combinatorial
+proofs,
+(iii) lower bounds on the maximum number of minimal dominating sets.
+In some cases, we provide examples of graphs whose number
+of minimal dominating sets exactly matches the proved
+upper bound for that class, thereby showing that these bounds are tight.
+
+

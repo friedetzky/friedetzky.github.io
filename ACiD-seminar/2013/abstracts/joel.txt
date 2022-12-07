@@ -1,0 +1,15 @@
+Joel Ouaknine
+Oxford
+
+Decision Problems for Linear Recurrence Sequences
+
+Linear recurrence sequences (such as the Fibonacci numbers) permeate a vast
+number of areas of mathematics and computer science and also have many
+applications in other fields such as economics, theoretical biology, and
+statistical physics. In this talk, I will focus on three fundamental
+decision problems for linear recurrence sequences, namely the Skolem Problem
+(does the sequence have a zero?), the Positivity Problem (are all terms of
+the sequence positive?), and the Ultimate Positivity Problem (are all but
+finitely many terms of the sequence positive?).
+
+This is joint work with James Worrell.

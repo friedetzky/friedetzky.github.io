@@ -1,0 +1,21 @@
+Petr Golovach
+Complexity of Cops and Robber Game
+ 
+The Cops and Robbers game was defined independently by
+Winkler-Nowakowski and Quilliot in the 1980s and since that time has
+been studied intensively. Despite of such a study of the combinatorial
+properties of the game, almost no algorithmic results on this game are
+known.  Perhaps the main algorithmic result known about Cops and Robbers
+game is the observation that determining whether the cop number of a
+graph on n vertices is at most k can be done by a backtracking algorithm
+which runs in time n^O(k) (thus polynomial for fixed k). From the
+hardness side, Goldstein and Reingold in 1995 proved that the version of
+the Cops and Robbers game on directed graphs is EXPTIME-complete.  Also,
+they have shown that the version of the game on undirected graphs when
+the cops and the robber are given their initial positions is also
+EXPTIME-complete. They also conjectured that the game on undirected
+graphs is also EXPTIME-complete. However, even NP-hardness of the
+problem was proved only in 2008 by Fomin, Golovach and Kratochvil. We
+survey the known complexity results about the Cops and Robbers game and
+its variants and give a list of open problems.
+ 

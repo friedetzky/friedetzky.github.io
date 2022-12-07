@@ -1,0 +1,20 @@
+Olaf Beyersdorff    Leeds           o.beyersdorff@leeds.ac.uk           http://www.engineering.leeds.ac.uk/people/computing/staff/o.beyersdorff
+Peter Cameron       Queen Mary      P.J.Cameron@qmul.ac.uk              http://www.maths.qmul.ac.uk/~pjc/
+Vladimir Deineko    Warwick         Vladimir.Deineko@wbs.ac.uk          http://www.wbs.ac.uk/faculty/members/Vladimir/Deineko
+Paul Goldberg       Liverpool       P.W.Goldberg@liverpool.ac.uk        http://cgi.csc.liv.ac.uk/~pwg/
+Gregory Gutin       Royal Holloway  G.Gutin@cs.rhul.ac.uk               http://www.rhul.ac.uk/computerscience/staffdirectory/ggutin/home.aspx
+Bill Jackson        Queen Mary      b.jackson@qmul.ac.uk                http://www.maths.qmul.ac.uk/~bill/
+Peter Jeavons       Oxford          Peter.Jeavons@cs.ox.ac.uk           http://www.cs.ox.ac.uk/peter.jeavons/
+Marianne Johnson    Manchester      marianne.johnson@maths.man.ac.uk    http://personalpages.manchester.ac.uk/staff/Marianne.Johnson/
+Maura Paterson      Birkbeck        m.paterson@bbk.ac.uk                http://www.ems.bbk.ac.uk/faculty/paterson/
+Soren Riis          Queen Mary      smriis@dcs.qmul.ac.uk               http://www.eecs.qmul.ac.uk/~smriis/      
+Rahul Savani        Liverpool       Rahul.Savani@liverpool.ac.uk        http://cgi.csc.liv.ac.uk/~rahul/
+Alan Sokal          UCL             a.sokal@ucl.ac.uk                   https://iris.ucl.ac.uk/research/personal/index?upi=ADSOK62
+Gregory Sorkin      LSE             g.b.sorkin@lse.ac.uk                http://www2.lse.ac.uk/management/people/gsorkin.aspx 
+Maxim Sviridenko    Warwick         M.I.Sviridenko@warwick.ac.uk        http://www2.warwick.ac.uk/fac/sci/dcs/people/maxim_sviridenko/
+Rick Thomas         Leicester       rmt@mcs.le.ac.uk                    http://www.cs.le.ac.uk/people/rmt/
+
+#Guillaume Fertin    Nantes          guillaume.fertin@univ-nantes.fr     http://pagesperso.lina.univ-nantes.fr/~fertin-g/
+#Vadim Lozin         Warwick         V.Lozin@warwick.ac.uk               http://homepages.warwick.ac.uk/~masgax/
+#Michal Pilipczuk    Bergen          michal.pilipczuk@gmail.com          http://folk.uib.no/mpi042/
+

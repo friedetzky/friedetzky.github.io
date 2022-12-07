@@ -1,0 +1,29 @@
+Dear XXX,
+
+I organise the Computer Science theory group seminars at Durham
+University.  We are in the process of scheduling the seminars for the
+academic year 2012/13, and I would like to invite you to give a talk in
+this seminar series.  
+
+The seminars normally take place Thursdays at 5pm (different
+arrangements may be made if necessary).  The talks should take no more
+than 50 minutes, including a little time for questions.  The audience
+comprises staff and graduate students of the CS theory group.  Generally
+speaking, overview talks are fine, but some mathematical meat will be
+appreciated as well.
+
+If you are interested in coming then please direct your favourite web
+browser to http://www.dur.ac.uk/tom.friedetzky/acidsem.html where you
+can find an up-to-date schedule.  Seminar slots are normally given away
+using a FCFS policy, and I expect the table to fill quickly.
+
+We are happy to cover travel expenses (UK railway or equivalent).  We
+will arrange for accommodation if required.
+
+I look forward to hearing from you,
+    Tom
+
+-- 
+School of Engineering and Computing Sciences, Durham University
+Science Labs, South Road, Durham, DH1 3LE, United Kingdom
+Tel +44 191 334 4285   Web http://www.dur.ac.uk/tom.friedetzky/

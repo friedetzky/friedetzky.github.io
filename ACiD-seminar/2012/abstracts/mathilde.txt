@@ -1,0 +1,16 @@
+Mathilde Noual
+Nice, France
+
+Updating Automata Networks
+
+An automata network is made of a set of entities (computational units seen
+as black boxes) called automata, that can make each other change states.
+The possible state changes of automata define the possible overall network
+transitions. Two questions follow naturally: how does the structure of
+interactions between automata, on the one hand, and the organisation of
+local changes in time. On the other, impact on the global evolution
+possibilities and the asymptotic behaviours of the network? I propose to
+approach these questions with networks of Boolean automata in order to put
+emphasis on (possibilities of) state changes rather than on the nature of
+changes.
+

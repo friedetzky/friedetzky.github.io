@@ -1,0 +1,22 @@
+Rahul Santhanam
+Edinburgh
+
+Three Roads to Satisfiability
+
+The Satisfiability problem is a fundamental problem in computer
+science, with applications to verification and testing, planning,
+automated theorem proving, optimization etc. A classical result of
+Stephen Cook states that Satisfiability is NP-complete and therefore
+unlikely to be solvable in polynomial time, but this is by no means
+the end of the story. There have been multiple research programs to
+understand the hardness of Satisfiability in a deeper way, including
+(1) the theory of exact algorithms, where the aim is to design
+algorithms for Satisfiability which beat brute force search (2) proof
+complexity, where the aim is to find short proofs for tautologies in
+standard proof systems, or else to show there are no short proofs (3)
+the average-case theory of Satisfiability, which aims to solve the
+problem quickly on random instances.
+
+I will give a whistlestop tour of these areas, and speculate about how
+increased dialogue between these areas might be key to further
+progress.

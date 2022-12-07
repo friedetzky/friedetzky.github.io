@@ -1,0 +1,14 @@
+Artem Pyatkin
+On incidentor colorings of multigraphs (review)
+
+An incidentor in a directed or undirected multigraph is an ordered pair
+of a vertex and an arc incident with it. It is convenient to treat
+incidentor as a half of an arc incident with a vertex. Two incidentors
+of the same arc are called mated. Two incidentors are adjacent if they
+adjoin the same vertex. The incidentor coloring problem (indeed, a class
+of problems) is to color all incidentors of a given multigraph with the
+minimum number of colors satisfying some restrictions on colors of
+adjacent and mated incidentors.
+
+The review of various results on the incidentor coloring is given in the
+talk. 

@@ -1,0 +1,9 @@
+Stanislav Zivny
+Oxford
+
+Soft Constraints for Optimisation
+
+In this talk, I will survey recent results on the broad family of
+optimisation problems that can be cast as valued constraint satisfaction
+problems (VCSPs). We discuss general methods for analysing the
+complexity of such problems, and give examples of tractable cases.

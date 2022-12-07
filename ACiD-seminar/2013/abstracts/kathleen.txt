@@ -1,0 +1,41 @@
+Kathleen Steinhoefel
+King's College London
+
+Peek-a-boo with Protein Structure Candidates
+
+Research on protein structure prediction and protein folding has a long
+history, dating back to the seminal work by Pauling and Corey in 1953.
+Research on these topics has been back in the spotlight with the Nobel prize
+2013 awarded to Karplus, Levitt and Warshel for their work on computer-aided
+analysis of protein molecules and for introducing simplified all-atom energy
+functions for protein folding simulation. From a computational point of
+view, all-atom protein structure prediction is a challenging task.
+Interestingly, Finkelstein and Badretdinov approximated the worst case
+folding time of a protein of length n as exp(n^{2/3})ns. In terms of
+algorithmic complexity, this implies a quasi-exponential structure
+prediction time. Consequently, protein structure prediction has been shown
+to be NP-hard for various lattice models and contact-based energy functions.
+A common approach to tackle NP-hard problems are local search-based
+heuristics, such as simulated annealing. However, the performance of these
+methods depends strongly on properties of the underlying energy landscape
+induced by the objective function and the associated neighbourhood relation.
+In 2008, we devised a simulated-annealing procedure with a time-dependent
+cooling schedule and a neighbourhood relation determined by the pull-move
+set. We obtained experimental evidence that the maximum depth D of local
+minima of the underlying energy landscape can be upper bounded by D<n^{2/3}.
+More recently, population-based local search methods have been investigated
+to speed up computation time. In this talk, we present a Firefly-inspired
+algorithmic approach for protein structure prediction that incorporates our
+simulated annealing procedure. It resembles a peek-a-boo game, since from
+time to time the best found protein conformation is revealed to a set of
+candidate conformations (fireflies), which in turn search through the energy
+landscape induced by this best solution until a better conformation has been
+found.  In experiments over three-dimensional cubic and three-dimensional
+face-centred-cubic (FCC) lattices we analysed the total number of objective
+function evaluations required to achieve the optimum energy values as key
+complexity parameter. For H-P instances and cubic lattices we obtain an
+average speed-up over eight instances of 2.1, leaving out two extreme values
+(otherwise, 8.8). For six M-J instances the average speed-up over four
+instances is 1.2 (leaving out two extreme values, otherwise 1.1), which is
+achieved for a population size of only eight.
+

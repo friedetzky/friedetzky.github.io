@@ -1,0 +1,15 @@
+Pedro Gonnet
+Durham
+
+High-Performance Computing and the need for good Graph Algorithms
+
+For the past five years, computers have become faster only by becoming
+more parallel: Any standard desktop PC now has at least four cores and a
+GPU with a hundred more. In order to exploit this new massive
+shard-memory parallelism for High-Performance Computing applications,
+new algorithms and/or programming approaches are needed. In this talk, I
+will present some parallelization methods and show how, in general, an
+efficient parallelization relies on good graph partitioning algorithms.
+The purpose of this talk is not to present any results, but to hopefully
+ask the right questions.
+

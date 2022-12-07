@@ -1,0 +1,16 @@
+Nikolaos Fountoulakis
+Birmingham
+
+Random graphs on spaces of negative curvature
+
+Random geometric graphs have been well studied over the last 50 years or
+so. These are graphs that are formed between points randomly allocated
+on a Euclidean space and any two of them are joined if they are close
+enough. However, all this theory has been developed when the underlying
+space is equipped with the Euclidean metric. But, what if the underlying
+space is curved? The aim of this talk is to initiate the study of such
+random graphs and lead to the development of their theory. Our focus
+will be on the case where the underlying space is a hyperbolic space. We
+will discuss some typical structural features of these random graphs as
+well as some applications, related to their potential as a model for
+networks that emerge in social life or in biological sciences.

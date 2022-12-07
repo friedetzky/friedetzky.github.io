@@ -1,0 +1,20 @@
+Piotr Krysta
+Liverpool
+
+Online Mechanism Design (Randomized Rounding on the Fly)
+
+We study incentive compatible mechanisms for combinatorial auctions (CAs) in
+an online model with sequentially arriving bidders, where the arrivals’
+order is either random or adversarial. The bidders’ valuations are given by
+demand oracles. Previously known online mechanisms for CAs assume that each
+item is available at a certain multiplicity b > 1. Typically, one assumes b
+= Ω(log m), where m is the number of different items.
+
+We present the first online mechanisms guaranteeing competitiveness for any
+multiplicity b ≥ 1. We introduce an online variant of oblivious randomized
+rounding enabling us to prove competitive ratios that are close to or even
+beat the best known offline approximation factors for various CAs settings.
+Our mechanisms are universally truthful, and they significantly improve on
+the previously known mechanisms.
+
+Joint work with Berthold Voecking.

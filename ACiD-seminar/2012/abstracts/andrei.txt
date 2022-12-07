@@ -1,0 +1,20 @@
+Andrei Krokhin
+Durham
+
+Robust algorithms for constraint satisfaction problems
+
+In a constraint satisfaction problem (CSP), the goal is to assign values
+to a given set of variables subject to constraints on possible
+combinations of values for certain subsets of variables.
+Polynomial-time algorithms for (tractable) CSPs identify satisfiable
+instances, and usually treat all unsatisfiable instance the same,
+whether nearly satisfiable or very unsatisfiable.  When can such
+algorithms be made to also identify near-satisfiable instances?  A
+polynomial-time algorithm for a CSP is called robust, if, for any almost
+satisfiable instance, it outputs an assignment that satisfies almost all
+constraints (possibly with some loss).  We will discuss a
+characterisation (due to Barto and Kozik) of CSPs that admit robust
+algorithms at all, and present our work (joint with V. Dalmau) towards
+characterising CSPs that admit robust algorithms with relatively small
+loss.
+

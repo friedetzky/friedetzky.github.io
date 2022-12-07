@@ -1,0 +1,16 @@
+Tobias Müller
+CWI Amsterdam, the Netherlands
+
+Some results on geometric representations of graphs
+
+A d-dot product representation of a graph G assigns a vector u_i in
+R^d to each vertex i, in such a way that  u_i^T u_j >= 1 if and only
+if {i,j} is an edge of G. The least dimension d for which such a
+representation exists is called the dot-product dimension of G. By
+making use of some classical results in algebraic geometry, oriented
+matroids and the Colin de Verdiere graph parameter, I will sketch the
+proofs of some results on dot product representations and other
+geometric representations of graphs.
+
+(based on joint work with Ross Kang)
+

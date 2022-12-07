@@ -1,0 +1,10 @@
+Vadim Lozin
+Warwick
+
+Parameterized Complexity and Ramsey Theory
+
+Parameterized complexity is a recent branch of computational complexity
+theory that provides a framework for a refined analysis of hard
+algorithmic problems. Ramsey theory is a branch of mathematics that
+studies the conditions under which order must appear. In this talk, we
+will reveal various connections between the two fields.

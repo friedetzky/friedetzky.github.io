@@ -1,0 +1,17 @@
+Dieter Kratsch
+Metz, France
+
+AT-free graphs: structure and algorithms
+
+Three mutually different vertices of a graph
+are said to be an asteroidal triple  if between
+any two of them there is a path avoiding the neighborhood
+of the third. Graphs without asteroidal triple are
+called AT-free graphs. AT-free graphs contain
+various well-known classes of perfect graphs, as e.g., interval,
+permutation and trapezoid graphs.
+A lot of research on AT-free graphs has been done in the last
+20 years. We present some fundamental structural properties
+of AT- free graphs and discuss the algorithmic complexity
+of some NP-hard problems on AT-free graphs.
+

@@ -1,0 +1,24 @@
+Vladimir Kolmogorov, UCL
+The complexity of conservative valued CSPs
+
+In a valued constraint satisfaction problem (VCSP), a *language* is a
+fixed set of cost functions over a fixed domain. An *instance* from this
+language is specified by a sum of cost functions from the language, and
+the goal is to minimise the sum. Classifying the complexity of such
+minimisation problems for different languages has been an active
+research area.
+
+I will talk about our recent results on *conservative* languages, i.e.
+languages containing all possible unary cost functions.  We prove that
+if all functions in the language satisfy a certain condition then the
+language is tractable, otherwise it is NP-hard.  This is the first
+complete classification for general-valued constraint languages over
+non-Boolean domains.
+
+Joint work with Stanislav Zivny. Links to papers:
+
+http://www.cs.ucl.ac.uk/staff/V.Kolmogorov/papers/CONS-VCSP-STP.html 
+http://www.cs.ucl.ac.uk/staff/V.Kolmogorov/papers/CONS-VCSP-ALG.html 
+http://www.cs.ucl.ac.uk/staff/V.Kolmogorov/papers/CONS-VCSP-MJN.html
+
+

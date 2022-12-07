@@ -1,0 +1,29 @@
+David Richerby
+AN EFFECTIVE DICHOTOMY FOR THE COUNTING CONSTRAINT SATISFACTION PROBLEM
+
+Bulatov (2008) gave a dichotomy for the counting constraint satisfaction
+problem #CSP.  A problem from #CSP is characterised by a constraint
+language, a fixed, finite set of relations over a finite domain and
+instances use these relations to constrain the values taken by
+variables.  Bulatov showed that the problem of counting the satisfying
+assignments of instances of any problem from #CSP is either in
+polynomial time (FP) or is #P-complete, depending on the structure of
+the constraint language.  Understanding his proof requires a secure
+grasp of the universal algebra techniques he uses.
+
+We give an elementary proof of the dichotomy, based on succinct
+representations, which we call 'frames', of a class of highly structured
+relations, which we call 'strongly rectangular'.  We show that these are
+precisely the relations which are invariant under a Mal'tsev
+polymorphism.  En route, we simplify a decision algorithm for strongly
+rectangular constraint languages, due to Bulatov and Dalmau (2006).
+
+We establish a new criterion for the #CSP dichotomy, which we call
+'strong balance', and we prove that this property is decidable -- in
+fact, in NP.  Thus, we show that the dichotomy is effective, resolving
+the most important open question from Bulatov's work.
+
+The talk will require no knowledge of universal algebra and should be
+accessible to people without any detailed knowledge of the constraint
+satisfaction problem.
+

@@ -1,0 +1,25 @@
+David Manlove
+Optimising paired and pooled kidney exchanges
+   
+This is joint work with Gregg O'Malley.
+     
+Recent changes in legislation in the UK have allowed a patient who
+requires a kidney transplant, and who has a willing but incompatible
+donor, to be involved in a "pairwise kidney exchange" (i.e., to "swap"
+their donor) with another patient-donor pair in a similar position.
+"Pooled donations" extend this concept to three or more couples in a
+cyclic manner. NHS Blood and Transplant (NHSBT) run the National
+Matching Scheme for Paired Donation (NMSPD), which finds pairwise and
+3-way exchanges (the latter being pooled exchanges involving three
+couples) at regular intervals. This matching scheme is based on finding
+an optimal solution, where the optimality definition involves a number
+of criteria including the need to maximise the number of transplants,
+and subject to this, maximise the total weight of the transplants, based
+on a scoring system that incorporates a number of factors including
+sensitivity, HLA compatibility, donor age and patient waiting time.  In
+this talk we describe the computational technique that we have used in
+order to construct optimal exchanges for matching runs of the NMSPD
+between July 2008 and January 2011.  This involves integer programming
+using the COIN solver, in conjunction with graph matching using the
+LEMON library.  We will also present some statistical results regarding
+the numbers of pairwise and 3-way exchanges from these matching runs.

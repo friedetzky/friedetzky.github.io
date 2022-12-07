@@ -1,0 +1,23 @@
+Konrad Dabrowski
+Durham
+Partitioning Graphs Made Easy (or Not)
+
+Many problems in algorithmic graph theory can be viewed as partitioning
+problems. In this talk we look at the Stable-Pi problem. If Pi is a class of
+graphs, the Stable-Pi problem asks, given a graph G, can we partition the
+vertices of G into an two parts, one of which is an independent
+(stable) set and the other of which induces a graph in Pi.
+
+For example, if Pi is the set of edgeless graphs, Stable-Pi asks if the graph
+is bipartite and this can be checked in polynomial time. If Pi is the class of
+bipartite graphs, Stable-Pi asks if the graph is 3-colourable, which is an
+NP-complete problem. We will look at what happens in-between these two cases.
+
+We find that we can efficiently check whether a graph can be partitioned into
+two parts as long as we insist that these parts are in some ways simple. Things
+only start to get hard once we allow more complicated partitions. In
+particular, we will look at how the speed (a measure of size) of a hereditary
+class Pi of graphs affects our ability to solve the Stable-Pi problem in
+polynomial time. The talk will focus on graph theoretic results and will be
+very light on any algorithmic details.
+

@@ -1,0 +1,18 @@
+Shenwei Huang
+Simon Fraser University
+
+Complexity of Coloring Graphs without Paths and Cycles
+
+Let P_t and C_l denote the path on t and l vertices, respectively. It is
+known that k-coloring is NP-complete for P_t-free graphs, for most
+combinations of values of k and t. In this talk, we study the complexity of
+k-coloring (P_t,C_l)-free graphs. We prove that for most values of k,l,t,
+the problem is still NP-complete. On the positive side, we develop a linear
+time certifying algorithm for 3-coloring and 4-coloring (P_6,C_4)-free
+graphs by providing a complete finite list of minimal non-k-colorable
+(P_6,C_4)-free graphs for k=3,4. For higher value of k, it seems impossible
+to provide such a list. Yet, we show that the number of minimal
+non-k-colorable (P_6,C_4)-free graphs is always finite.
+
+This is a joint work with Pavol Hell.
+

@@ -1,0 +1,19 @@
+Olaf Beyersdorff
+Leeds
+
+How difficult is it to verify proofs?
+
+Traditionally proof complexity adopts the view that proofs are verified
+in polynomial time and a rich body of +results is known for the
+complexity of proofs in this framework. The talk will start by providing
+an introduction to +main notions and motivations in proof complexity in
+this classical setting. The second part of the talk is devoted to a
+recent line of research trying to  understand the power of proof systems
+that use alternative computational resources +to verify proofs.  In the
+talk I will mention recent results where proofs are verified by either
+additional +computational resources (such as advice, randomness, quantum
+computations) or by very weak computational models. In particular, we
+will look at a very weak model where proofs are verified by NC^0
+circuits and show non-trivial lower and +upper bounds for this
+restrictive model.
+

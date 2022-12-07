@@ -1,0 +1,17 @@
+Bernard Ries
+Universite Paris Dauphine, France
+
+d-Transversals of Stable Sets and Vertex Covers in Weighted Bipartite Graphs
+
+Abstract: Let G=(V,E) be a graph in which every vertex v in V has a
+weight w(v)>=0 and a cost c(v)>=0. Let S_G be the family of all
+maximum-weight stable sets in G. For any integer d>=0, a minimum
+d-transversal in the graph G with respect to S_G is a subset of vertices
+T of minimum total cost such that |T \cap S|>=d for every S in S_G. We
+present a polynomial-time algorithm to determine minimum d-transversals
+in bipartite graphs. Our algorithm is based on a characterization of
+maximum-weight stable sets in bipartite graphs. We also derive results
+on minimum d-transversals of minimum-weight vertex covers in weighted
+bipartite graphs.
+
+

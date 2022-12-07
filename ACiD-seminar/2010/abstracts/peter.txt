@@ -1,0 +1,17 @@
+Fractional solutions for NTU-games, with applications to stable matching problems
+Peter Biro
+Glasgow
+
+(joint work with Tamas Fleiner)
+
+abstract: In this talk I will survey some applications of the Scarf 
+algorithm. First, I will introduce the notion of fractional core, which 
+is always nonempty by the Scarf Lemma for finitely generated NTU-games. 
+Stable allocation is a general solution concept for games where both the 
+players and their possible cooperations may have capacities. Our main 
+result is that, given a finitely generated NTU-game with capacities, we 
+can always find a stable allocation by a variant of Scarf’s algorithm. I 
+will explain the meaning of these results in the context of stable 
+matching problems, and finally I will show some experiments for the 
+Hospitals/Residents problem with couples.
+

@@ -1,0 +1,28 @@
+Pim van 't Hof
+University of Bergen, Norway
+
+Ramsey numbers for line graphs and perfect graphs
+
+For any graph class ${\cal G}$ and any two positive integers $i$ and
+$j$, the Ramsey number $R_{\cal G}(i,j)$ is the smallest integer $p$
+such that every graph in ${\cal G}$ on $p$ vertices has a clique of
+size $i$ or an independent set of size $j$. Ramsey numbers for general
+graphs are notoriously hard to determine, and exact values have been
+established only for very small integers $i$ and $j$. An exact formula
+is known for determining all Ramsey numbers for planar graphs, whereas
+for claw-free graphs there are infinitely many Ramsey numbers that are
+as difficult to determine as for arbitrary graphs. No other graph
+classes seem to have been studied in this context.
+
+We give exact formulas for determining all Ramsey numbers for various
+classes of graphs. Our main result is an exact formula for all Ramsey
+numbers for line graphs, which form a large subclass of claw-free
+graphs. We obtain this by proving a tight upper bound on the number of
+edges in an arbitrary graph in terms of its maximum degree and maximum
+matching size. As complementary results, we determine all Ramsey
+numbers for perfect graphs and for several subclasses of perfect
+graphs.
+
+This is joint work with R\'{e}my Belmonte, Pinar Heggernes and Reza
+Saei.
+

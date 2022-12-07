@@ -1,0 +1,23 @@
+Vitaliy Kurlin
+Durham (Maths)
+
+A fast and robust algorithm to count topologically persistent holes in noisy
+clouds.
+
+Preprocessing a 2D image often produces a noisy cloud of interest
+points. We study the problem of counting holes in noisy clouds in the plane.
+The holes in a given cloud are quantified by the topological persistence of
+their boundary contours when the cloud is analysed at all possible scales.
+We design the algorithm to count holes that are most persistent in the
+filtration of offsets (neighbourhoods) around given points. The input is a
+cloud of n points in the plane without any user-defined parameters. The
+algorithm has a near linear time and a linear space. The output is the array
+(number of holes, relative persistence in the filtration). We prove
+theoretical guarantees when the algorithm finds the correct number of holes
+(components in the complement) of an unknown shape approximated by a cloud.
+
+The talk is based on the paper accepted at CVPR 2014 (Computer Vision and
+Pattern Recognition). The final version is available at
+http://kurlin.org/projects/counting-holes-in-noisy-clouds.pdf (1.4M).
+
+

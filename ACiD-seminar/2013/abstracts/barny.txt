@@ -1,0 +1,9 @@
+Barnaby Martin
+Middlesex
+
+Distance Constraint Satisfaction Problems
+
+We give a complexity-based classification for Distance CSPs which are CSPs
+whose template is fo-definable in (Z;succ). This completes a four-year
+project and is the first time a classification of this form has been done
+for a template that is not omega-categorical.

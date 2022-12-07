@@ -1,0 +1,20 @@
+Oded Lachish
+Birkbeck
+
+Improved Competitive Ratio for the Matroid Secretary Problem
+
+The Matroid Secretary Problem, introduced by Babaioff et al (2007), is
+a generalization of the Classical Secretary Problem. In this problem,
+elements from a matroid are presented to an on-line algorithm in a
+random order. Each element has a weight associated with it, which is
+revealed to the algorithm along with the element. After each element
+is revealed the algorithm must make an irrevocable decision on whether
+or not to select it. The goal is to pick an independent set with the
+sum of the weights of the selected elements as large as possible.
+Babaioff et al gave an algorithm for the Matroid Secretary Problem
+with a competitive ratio of O(log(rho)), where rho is the rank of the
+matroid. It has been conjectured that a constant competitive-ratio is
+achievable for this problem. This will be about an algorithm that has
+a competitive ratio of O(sqrt(log(rho))).
+
+This is joint work with Sourav Chakraborty

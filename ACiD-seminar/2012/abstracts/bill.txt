@@ -1,0 +1,9 @@
+Bill Jackson
+Queen Mary
+
+Chromatic polynomials
+
+I will describe some of my favourite results and open problems for the
+chromatic polynomial and its relatives: flow polynomials, characteristic
+polynomials, Tutte polynomials and Potts model partition functions.  I
+will also outline some techniques for working with these polynomials.

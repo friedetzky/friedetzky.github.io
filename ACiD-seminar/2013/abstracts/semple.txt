@@ -1,0 +1,21 @@
+Charles Semple
+University of Canterbury, N.Z.
+
+What is a typical matroid?
+  
+Matroids (combinatorial geometries) are precisely the structures that
+underlie the solution of many combinatorial optimisation problems. These
+problems include scheduling and timetabling, and finding the minimum cost of
+a communications network between cities. Moreover, matroid theory unifies
+the notions of linear independence in linear algebra and forests in graph
+theory as well as the notions of duality for graphs and codes.
+
+In this talk, we investigate the following question: What is a typical
+matroid? More particularly, if one selects an n-element labelled matroid
+uniformly at random, what properties can one expect it to have when n is
+sufficiently large?  Does it have high connectivity? What about its rank?
+How many bases does it have? For labelled graphs, the analogous question has
+been well-studied but, for labelled matroids, the question is largely
+unexplored.
+
+

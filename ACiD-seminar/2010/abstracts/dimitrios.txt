@@ -1,0 +1,14 @@
+Dimitrios Thilikos
+Meta-kernels for graph problems on sparse graph classes
+  
+Kernelization  can be seen as the strategy of analyzing preprocessing or
+data reduction heuristics from a parameterized complexity perspective.
+A parameterized  problem with a parameter k is said to admit a
+polynomial kernel if there is a polynomial time algorithm that reduces
+the input instance down to an equivalent instance with size bounded by a
+polynomial in k. In this talks we present how t obtain meta-algorithmic
+results for kernelization, showing that various problems satisfying
+certain logical and combinatorial properties (CMSOL expressibility,
+Finite Integer Index, Bidimensionality, and Compactness) have
+polynomial, even linear, kernels on sparse graph classes such as planar
+graphs, graphs of bounded genus, and H-minor free graphs.

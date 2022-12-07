@@ -1,0 +1,38 @@
+Juraj Stacho
+Warwick
+
+Induced matchings and independence complexes of chordal graphs
+
+We study the complexity of the following problem: given a graph, find an
+induced matching containing a maximal independent set.  This problem has
+applications in the study of topological properties of independence
+complexes of graphs, which are simplicial complexes whose faces are the
+independent sets of a graph.
+
+Such a matching, if found, certifies that the topology of the
+independence complex is non-trivial. More topological information can be
+derived further if the matching also is of certain size (or
+minimal/maximal possible).  Notably, for chordal graphs, such matchings
+encode complete information of the topology of the independence complex,
+which is not the case in general.
+
+We prove that the problem of finding such a matching is NP-complete for
+general graphs, but in chordal graphs, it has a polynomial-time
+algorithm.  Our algorithm is based on the geometric intersection
+representation of chordal graphs and has an efficient implementation. We
+further show that the exact-cardinality version of the problem remains
+NP-complete even on chordal graphs, but admits a polynomial time
+algorithm for bounded-leafage chordal graphs.  Our hardness results are
+derived from the hardness of dominating set problems.
+
+Previous best result in this area by Kawamura addresses the case of
+forests with a particularly complicated algorithm. Our approach implies
+a simple linear-time algorithm for forests improving significantly on
+this result.
+
+As a corollary, we obtain polynomial time algorithms for such
+topological properties as contractibility or simple-connectedness of
+independence complexes of chordal graphs. These problems are undecidable
+for general independence complexes.
+
+Joint work with Michal Adamaszek (Warwick University)

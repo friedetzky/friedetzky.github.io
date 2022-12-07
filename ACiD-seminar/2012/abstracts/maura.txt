@@ -1,0 +1,11 @@
+Maura Paterson
+Birkbeck
+
+A ramp scheme is a method of distributing shares in a secret among a set
+of players in such a way that sufficiently small subsets of players
+learn no information about the secret, whereas sufficiently large
+subsets can recover it completely.  In this talk we discuss a
+combinatorial treatment of recent results relating various parameters of
+ramp schemes.  We explore connections between ramp schemes and error
+correcting codes, and reinterpret these results in this context.
+

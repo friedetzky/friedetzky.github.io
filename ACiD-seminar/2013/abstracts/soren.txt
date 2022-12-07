@@ -1,0 +1,15 @@
+Søren Riis
+Queen Mary University of London
+
+Dynamic communication networks and a new type of problems in Universal
+Algebra
+
+In the talk I present a number of distinct new ideas that in their pure
+non-technical form should be quite easy to understand. The ideas can be
+combined and elaborated in various ways.  I present a Theorem that resembles
+the max-flow min-cut theorem, but which is technically quite different. Its
+proof uses Menger Theorem (a variant of the max-flow min-cut theorem), and
+draws on the techniques that Shannon used to prove his noisy-channel coding
+theorem. The presentation will focus on the main ideas rather than on
+technical elaborations.
+

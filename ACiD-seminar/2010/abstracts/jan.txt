@@ -1,0 +1,32 @@
+Constructing templates with tree duality
+Jan Foniok
+ETH Zurich
+
+Consider the H-colouring problem, a special but fairly generic  
+constraint satisfaction problem: for a fixed digraph H, called a  
+template, the H-colouring problem is to decide for an input digraph G  
+whether there exists a homomorphism from G to H ("G -> H").  
+Computational complexity of H-colouring depends on H. For instance, if  
+H is the complete graph on 3 vertices, H-colouring is the same as 3- 
+colouring. It was conjectured by Feder and Vardi (1999) that any H- 
+colouring is either polynomial or NP-complete, that is, it never  
+belongs to any class strictly between P and NP (the "dichotomy  
+conjecture").
+
+In this talk I concentrate on a tractable case: templates with "tree  
+duality". These are the templates H for which the (polynomial) arc- 
+consistency algorithm works. Equivalently, for any G, if G does not  
+admit a homomorphism to H ("G -/-> H"), then there exists an oriented  
+tree T (an "obstruction") such that T -> G but T -/-> H.
+
+How does one construct a template with tree duality? For any finite  
+set of trees t there is a "dual" H, a template, for which an  
+obstruction can always be found in t (Nesetril & Tardif, 2000). I will  
+show that taking arc graphs preserves tree duality (but not the  
+existence of a finite complete set of obstructions). The arc graph is  
+a special case of a right adjoint in the category of digraphs, and  
+indeed, all right adjoints preserve tree duality. In some cases, we  
+can explicitly describe the tree obstructions.
+
+Based on joint work with Claude Tardif.
+

@@ -1,0 +1,36 @@
+Algorithmic applications of random walks to large networks
+
+Colin Cooper
+Department of Informatics
+King's College London
+
+The talk looks at two examples of uses of random walks. These are for
+sampling network properties, and for use in recommender systems.
+
+
+Estimation of network properties using random walks
+
+We study the use of random walks as an efficient estimator of  global
+properties of large undirected graphs, for example the number of edges,
+vertices, triangles, and generally, the number of small fixed subgraphs.  We
+consider two methods based on first returns of random walks: the cycle
+formula of regenerative processes and weighted random walks with edge
+weights defined by the property under investigation.  We review the
+theoretical foundations for these methods, and indicate how they can be
+adapted for the general non-intrusive investigation of large online
+networks.
+
+
+
+Use of Random Walks in Recommender Systems
+
+A recommender system uses information about known associations between users
+and  items to compute for a given user, an ordered recommendation list of
+items which this user might be interested in acquiring.  For example, in the
+context of a library, knowing which books have been read by which members of
+the library, a recommender system would calculate for a given member an
+ordered list of book recommendations for next reading.  We consider ordering
+rules based on various parameters of random walks on the graph which
+represents associations between users and items, and  experimentally compare
+the quality of  recommendations so obtained for the MovieLens data set.
+

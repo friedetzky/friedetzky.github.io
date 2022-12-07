@@ -1,0 +1,30 @@
+Prudence Wong
+Liverpool
+
+Energy efficient job scheduling with speed scaling and sleep management
+
+Energy usage has become a major issue in the design of microprocessors,
+especially for battery-operated devices. Many modern processors support
+dynamic speed scaling to reduce energy usage. The speed scaling model
+assumes that a processor, when running at speed s, consumes energy at
+the rate of s^\alpha, where \alpha is typically 2 or 3.
+
+In older days when speed scaling was not available, energy reduction was
+mainly achieved by allowing a processor to enter a low-power sleep
+state, yet waking up requires extra energy. It is natural to study job
+scheduling on a processor that allows both sleep state and speed
+scaling. In the awake state, a processor running at speed s>0 consumes
+energy at the rate s^\alpha + \sigma , where \sigma > 0 is the static
+power and s^\alpha is the dynamic power. In this case, job scheduling
+involves two components: a sleep management algorithm to determine when
+to work or sleep, and a speed scaling algorithm to determine which job
+to run and at what speed to run.  Adding a sleep state changes the
+nature of speed scaling. Without sleep state, running a job slower is a
+natural way to save energy. With sleep state, one can also save energy
+by working faster to allow a longer sleep period. It is not trivial to
+strike a balance.
+
+In this talk, we will discuss some scheduling results involving both
+speed scaling and sleep management.
+
+
